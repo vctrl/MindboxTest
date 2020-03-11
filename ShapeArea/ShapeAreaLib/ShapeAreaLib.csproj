@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+    <Compile Remove="LinqBuilderWithCachingWithGeneric.cs" />
+    <Compile Remove="RightTriangle.cs" />
+    <Compile Remove="RightTriangle.cs" />
+    <Compile Remove="Interfaces\IValidatable.cs" />
+    <Compile Remove="Interfaces\IArea.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Shapes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="StyleCop.Cache" />
+  </ItemGroup>
+</Project>

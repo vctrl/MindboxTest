@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeAreaLib", "ShapeAreaLib\ShapeAreaLib.csproj", "{2D402459-B123-4B2F-9FA0-3F5E9465333A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeAreaLibTests", "ShapeAreaLibTests\ShapeAreaLibTests.csproj", "{B2918F90-150B-4F38-9C6F-033C28FBE741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D402459-B123-4B2F-9FA0-3F5E9465333A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D402459-B123-4B2F-9FA0-3F5E9465333A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D402459-B123-4B2F-9FA0-3F5E9465333A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D402459-B123-4B2F-9FA0-3F5E9465333A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2918F90-150B-4F38-9C6F-033C28FBE741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2918F90-150B-4F38-9C6F-033C28FBE741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2918F90-150B-4F38-9C6F-033C28FBE741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2918F90-150B-4F38-9C6F-033C28FBE741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
